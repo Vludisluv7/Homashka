@@ -1,0 +1,15 @@
+C:\Users\Vludisluv\Desktop\homashka\bin\Debug\net7.0\homashka.exe
+C:\Users\Vludisluv\Desktop\homashka\bin\Debug\net7.0\homashka.deps.json
+C:\Users\Vludisluv\Desktop\homashka\bin\Debug\net7.0\homashka.runtimeconfig.json
+C:\Users\Vludisluv\Desktop\homashka\bin\Debug\net7.0\homashka.dll
+C:\Users\Vludisluv\Desktop\homashka\bin\Debug\net7.0\homashka.pdb
+C:\Users\Vludisluv\Desktop\homashka\obj\Debug\net7.0\homashka.csproj.AssemblyReference.cache
+C:\Users\Vludisluv\Desktop\homashka\obj\Debug\net7.0\homashka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vludisluv\Desktop\homashka\obj\Debug\net7.0\homashka.AssemblyInfoInputs.cache
+C:\Users\Vludisluv\Desktop\homashka\obj\Debug\net7.0\homashka.AssemblyInfo.cs
+C:\Users\Vludisluv\Desktop\homashka\obj\Debug\net7.0\homashka.csproj.CoreCompileInputs.cache
+C:\Users\Vludisluv\Desktop\homashka\obj\Debug\net7.0\homashka.dll
+C:\Users\Vludisluv\Desktop\homashka\obj\Debug\net7.0\refint\homashka.dll
+C:\Users\Vludisluv\Desktop\homashka\obj\Debug\net7.0\homashka.pdb
+C:\Users\Vludisluv\Desktop\homashka\obj\Debug\net7.0\homashka.genruntimeconfig.cache
+C:\Users\Vludisluv\Desktop\homashka\obj\Debug\net7.0\ref\homashka.dll
